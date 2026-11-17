@@ -24,7 +24,7 @@ headshot_mode = True
 cpsDisplay = True
 
 # Set to True if you want to get the visuals
-visuals = False
+visuals = True 
 
 # Smarter selection of people
 centerOfScreen = True
